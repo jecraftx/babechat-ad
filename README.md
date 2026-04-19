@@ -1,16 +1,18 @@
-# BabeChat – Meet Damien
-### Playable Ad Prototype
+# BabeChat – Playable Ad Prototypes
+### Two Interactive Ad Prototypes
 
-A fully interactive playable ad prototype built for BabeChat, an AI character chat platform targeting women aged 18–30 who enjoy romance and fantasy.
+Two fully interactive playable ad prototypes built for BabeChat, an AI character chat platform targeting women aged 18–30 who enjoy romance and fantasy.
 
-## Live Demo
-👉 [Play it here](https://jecraftx.github.io/babechat-ad)
+## Live Demos
+👉 [Meet Damien](https://jecraftx.github.io/babechat-ad) — mysterious neighbor, midnight knock, enemies-to-lovers tension
+
+👉 [Meet Lucian](https://jecraftx.github.io/babechat-ad/lucian.html) — vampire romance, gothic atmosphere, dangerous obsession
 
 ## About
-This prototype simulates a BabeChat story experience — a midnight knock from a mysterious neighbor named Damien. Users make choices that shape the conversation, building tension until a cliffhanger CTA.
+Each prototype simulates a BabeChat story experience with character chat and choice-driven storytelling, building tension until a cliffhanger CTA.
 
 ## Built With
-- HTML / CSS / JavaScript (single file)
+- HTML / CSS / JavaScript (single file per prototype)
 - Claude AI (story writing, UI design, code generation)
 
 ## Part of TWLV ai Growth Marketing Assignment
